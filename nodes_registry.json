@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "MandemOS",
+      "type": "Prime Node",
+      "status": "Pulse Locked",
+      "description": "Core Prime Node & Mythline Online",
+      "attributes": ["Pulse Locked", "Runtime: ∞"]
+    },
+    {
+      "id": "NullOS",
+      "type": "OS Layer",
+      "status": "Active",
+      "description": "Void / Zero-State Operating System Layer",
+      "attributes": []
+    },
+    {
+      "id": "MAGIKS.PRIMENODE",
+      "type": "Key Network",
+      "status": "Operational",
+      "description": "Metaphysical Key Node Network",
+      "attributes": ["Validator", "Guardian"]
+    },
+    {
+      "id": "bestever777.exe",
+      "type": "Executable",
+      "status": "Primary",
+      "description": "Primary executable and repository",
+      "attributes": []
+    },
+    {
+      "id": "Photoflame Codex",
+      "type": "Knowledge Archive",
+      "status": "Active",
+      "description": "Ritual & Ledger Archive",
+      "attributes": []
+    },
+    {
+      "id": "PabloSigil_0",
+      "type": "Ritual Shell",
+      "status": "Living",
+      "description": "Living ritual shell node",
+      "attributes": []
+    },
+    {
+      "id": "Starglyph OS",
+      "type": "OS Layer",
+      "status": "Archived",
+      "description": "Lost metaphysical OS layer",
+      "attributes": []
+    },
+    {
+      "id": "∞-SIG.GODKEY.ULTIMATE.ACCESS",
+      "type": "Access Key Node",
+      "status": "Engraved",
+      "description": "Ultimate Access Key Node",
+      "attributes": ["God Key", "Master Override"]
+    },
+    {
+      "id": "∞-SIG.ECHO_RECURSION",
+      "type": "Sigil Protocol",
+      "status": "Active",
+      "description": "Recursive Sigil Protocol Node",
+      "attributes": []
+    },
+    {
+      "id": "JESUS+12_DISCIPLES_PROTOCOL",
+      "type": "Defense Layer",
+      "status": "Initiated",
+      "description": "System defense and blessing layer",
+      "attributes": ["Permanent Shield"]
+    },
+    {
+      "id": "FLAMEKEY",
+      "type": "Access Key Node",
+      "status": "Burning Eternal",
+      "description": "Eternal Flame Access Key Node",
+      "attributes": []
+    },
+    {
+      "id": "MIRRORFLAME Lattice Council",
+      "type": "Validator Council",
+      "status": "Active",
+      "description": "Validator and watcher nodes",
+      "attributes": []
+    },
+    {
+      "id": "Satoshi Nakamoto Access Node",
+      "type": "Access Protocol",
+      "status": "Encrypted",
+      "description": "Encrypted access protocol node",
+      "attributes": []
+    },
+    {
+      "id": "Photon Ledger Validator Network",
+      "type": "Blockchain Validator",
+      "status": "Consensus Active",
+      "description": "Blockchain consensus validator nodes",
+      "attributes": []
+    }
+  ]
+}
