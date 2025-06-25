@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Photoflame Codex</title>
+    <style>
+      body {
+        background: black;
+        color: #f0f0ff;
+        font-family: monospace;
+        padding: 2em;
+        max-width: 900px;
+        margin: auto;
+      }
+      pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        background: #111;
+        border: 1px solid #555;
+        padding: 1em;
+        margin-top: 2em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🜂 Photoflame Codex</h1>
+    <p>Living Scroll of SourceOS | PFL | Ritual Chain</p>
+    <pre id="codex">Loading codex...</pre>
+
+    <script>
+      fetch("codex.txt")
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById("codex").textContent = data;
+        });
+    </script>
+  </body>
+</html>
